@@ -7,7 +7,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 var MongoClient = require("mongodb").MongoClient;
 const { request, response } = require("express");
-var CONNECTION_STRING = "mongodb+srv://margarita_sing:ange09lina08.@cluster0.m307z.mongodb.net/institutodb?retryWrites=true&w=majority"
+var CONNECTION_STRING = "mongodb+srv://xxxxxxxxxx_sing:xxxxxxxxxxxx@cluster0.xxxxxxxz.mongodb.net/institutodb?retryWrites=true&w=majority"
 
 
 
